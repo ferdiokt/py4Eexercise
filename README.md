@@ -1,5 +1,5 @@
-# py4Eexercise
-This is my py4E lessons exercise solution. 
+# Python for Everybody Excercise
+This is my [py4E](https://www.py4e.com/) lessons exercise solution. 
 I recently joined the OSSU for computer science curriculum, so for those need an insight for the solution of the exercise, you can download the files from my repo.
 
 Exercise list:
