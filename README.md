@@ -44,3 +44,8 @@ Exercise list:
   - [Extracting Data from XML](https://github.com/ferdiokt/py4Eexercise/blob/main/exercise13_1.py)
   - [Extract Data from JSON](https://github.com/ferdiokt/py4Eexercise/blob/main/exercise13_2.py)
   - [Using the GeoJSON API](https://github.com/ferdiokt/py4Eexercise/blob/main/exercise13_3.py)
+
+- Databases
+  - [Counting Email in a Database](https://github.com/ferdiokt/py4Eexercise/blob/main/exercise15_2.py)
+  - [Multi-Table Database - Tracks](https://github.com/ferdiokt/py4Eexercise/blob/main/exercise15_3.py)
+  - [Many Students in Many Courses](https://github.com/ferdiokt/py4Eexercise/blob/main/exercise15_4.py)
